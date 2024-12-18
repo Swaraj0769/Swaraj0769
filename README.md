@@ -5,15 +5,19 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=swaraj0769" alt="swaraj0769" /></a> </p>
 
-- 🔭 I’m currently working on **cyberpunk website**
+- 🔭 I’m currently working on [cyberpunk](https://github.com/Swaraj0769/cyberpunk)
 
 - 🌱 I’m currently learning **three.js**
+
+- 👨‍💻 All of my projects are available at [https://github.com/Swaraj0769](https://github.com/Swaraj0769)
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/swarajsanodiya/](https://www.linkedin.com/in/swarajsanodiya/)
 
 - 💬 Ask me about **react, gsap and tailwind css**
 
 - 📫 How to reach me **swarajsanodiya6@gmail.com**
+
+- 📄 Know about my experiences [https://docs.google.com/document/d/1qfzy0u2eWLTcJZQvaEVggrUC9rgsHPFl/edit?usp=drive_link&ouid=112284949949758778954&rtpof=true&sd=true](https://docs.google.com/document/d/1qfzy0u2eWLTcJZQvaEVggrUC9rgsHPFl/edit?usp=drive_link&ouid=112284949949758778954&rtpof=true&sd=true)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
