@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [cyberpunk](https://github.com/Swaraj0769/cyberpunk)
 
-- 🌱 I’m currently learning **three.js**
+- 🌱 I’m currently learning **React JS**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Swaraj0769](https://github.com/Swaraj0769)
 
